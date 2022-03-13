@@ -1,11 +1,24 @@
 # Hello, I am Pranav Arya
 I am a student at IIT Roorkee majoring in Electronics And Communiation and I am a passionate software developer👩🏾‍💻.<br> 
 👯 I am part of <a href="https://www.ecelliitr.org/"><img src="https://github.com/pranav-iitr/pranav-iitr/blob/main/Ecell_logo.webp?raw=true" height="15px" alt="">E-Cell IIT-R</a> and <a href="http://aries.iitr.ac.in"><img src="https://github.com/pranav-iitr/pranav-iitr/blob/main/Aries.png?raw=true" height="10px" alt=""> Aries</a><br>
-🌱 I’m currently learning Deep Learning under <br>
+🌱 I’m currently learning Deep Learning <br>
 🔭 Building Tech at  <a src="https://mentorplus.co.in"><img src="https://github.com/pranav-iitr/pranav-iitr/blob/main/MentorPlus.png?raw=true" height="20px" alt=""> </a><br>
+🥅 2022 Goals: Learn more about web3 and contibute on open source<br>
 📫 linkdin - https://www.linkedin.com/in/pranav-arya-2673421b8/ <br>
 💬 Ask me about anything tech related, I am happy to help.<br>
 
+### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg?raw=true">
+<img width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg?raw=true">
+<img width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg?raw=true">
+<img width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true">
+<br><br><br>
 
 ### 📊 Github Stats
   
