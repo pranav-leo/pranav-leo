@@ -1,9 +1,9 @@
 # Hello, I am Pranav Arya
 I am a student at IIT Roorkee majoring in Electronics And Communiation I am a passionate software developer👩🏾‍💻.<br> 
-👯I am part of <a href="https://www.ecelliitr.org/"><img src="https://github.com/pranav-iitr/pranav-iitr/blob/main/Ecell_logo.webp?raw=true" height="10px" alt="">E-Cell IIT-R</a> and <a href="http://aries.iitr.ac.in"><img src="https://github.com/pranav-iitr/pranav-iitr/blob/main/Aries.png?raw=true" height="10px" alt=""> Aries</a><br>
+👯 I am part of <a href="https://www.ecelliitr.org/"><img src="https://github.com/pranav-iitr/pranav-iitr/blob/main/Ecell_logo.webp?raw=true" height="10px" alt="">E-Cell IIT-R</a> and <a href="http://aries.iitr.ac.in"><img src="https://github.com/pranav-iitr/pranav-iitr/blob/main/Aries.png?raw=true" height="10px" alt=""> Aries</a><br>
 🌱 I’m currently learning Deep Learning under <br>
-
-The motto of my life is just to work hard ⚡ and be the best of yourself✨ !   
+⚡ Building Tech at  <img src="https://github.com/pranav-iitr/pranav-iitr/blob/main/MentorPlus.png?raw=true" height="15px" alt=""> 
+  
 
 <!--
 **pranav-iitr/pranav-iitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
