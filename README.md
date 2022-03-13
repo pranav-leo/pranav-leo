@@ -10,8 +10,14 @@ I am a student at IIT Roorkee majoring in Electronics And Communiation and I am 
 ### 📊 Github Stats
   
 <a href="https://github.com//pranav-iitr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-iitr&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Pranav's github stats" style="width:56%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-iitr&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true" alt="Pranav's github stats" style="width:56%;" />
+
 </a>
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-iitr">
+<br>
+<br>
 
 <!--
 **pranav-iitr/pranav-iitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
