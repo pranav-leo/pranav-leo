@@ -14,7 +14,7 @@ I am a student at IIT Roorkee majoring in Electronics And Communiation and I am 
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg?raw=true" style="padding-right:10px;">
+<img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg?raw=true" style="padding-right:10px;">
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg?raw=true" style="padding-right:10px;">
 <im  align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg?raw=true" style="padding-right:10px;">
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" style="padding-right:10px;">
