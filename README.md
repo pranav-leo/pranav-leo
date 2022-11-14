@@ -30,7 +30,11 @@ I am a student at IIT Roorkee majoring in Electronics And Communiation and I am 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-iitr">
 <br>
 <br>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pranav-iitr/count.svg" />
+</p>
+<br>
 <!--
 **pranav-iitr/pranav-iitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
