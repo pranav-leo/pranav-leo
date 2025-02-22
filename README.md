@@ -1,8 +1,7 @@
 # Hello, I am Pranav Arya
-I am a student at IIT Roorkee majoring in Electronics And Communiation and I am a passionate software developer👩🏾‍💻.<br> 
-👯 I am part of <a href="https://www.ecelliitr.org/"><img src="https://github.com/pranav-iitr/pranav-iitr/blob/main/Ecell_logo.webp?raw=true" height="15px" alt="">E-Cell IIT-R</a> and <a href="http://aries.iitr.ac.in"><img src="https://github.com/pranav-iitr/pranav-iitr/blob/main/Aries.png?raw=true" height="10px" alt=""> Aries</a><br>
+I am a former student at IIT Roorkee majoring in Electronics And Communiation and I am a passionate software developer👩🏾‍💻.<br> 
 🌱 I’m currently learning ML Ops <br>
-🥅 2023 Goals: Learn more about ML Security and contibute to open source<br>
+🥅 2025 Goals: Learn more about ML Security and contibute to open source<br>
 📫 linkedin - https://www.linkedin.com/in/pranav-arya-tech/ <br>
 💬 Ask me about anything tech related, I am happy to help.<br>
 
