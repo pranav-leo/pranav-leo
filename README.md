@@ -20,18 +20,18 @@ I am a former student at IIT Roorkee majoring in Electronics And Communiation an
 
 ### 📊 Github Stats
   
-<a href="https://github.com//pranav-iitr">
+<a href="https://github.com//pranav-leo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-iitr&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true" alt="Pranav's github stats" style="width:56%;" />
 
 </a>
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-iitr">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-leo">
 <br>
 <br>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pranav-iitr/count.svg" />
+  <img src="https://profile-counter.glitch.me/pranav-leo/count.svg" />
 </p>
 <br>
 <!--
